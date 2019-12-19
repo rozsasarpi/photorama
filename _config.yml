@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 #url: "https://rozsasarpi.github.io"
-url: "http://www.nonnafe.art/"
+url: "https://www.nonnafe.art/"
 baseurl: ""
 facebook_username: ""
 twitter_username: ""
@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://www.nonnafe.art/gallery/"  
-  - JOURNAL: "http://www.nonnafe.art/journal/"
-  - ABOUT: "http://www.nonnafe.art/about/"
+  - GALLERY: "https://www.nonnafe.art/gallery/"  
+  - JOURNAL: "https://www.nonnafe.art/journal/"
+  - ABOUT: "https://www.nonnafe.art/about/"
 
 # All translation keys
 translations:
