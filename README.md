@@ -1,11 +1,19 @@
-Nonna Fe Art 
+Nonna F&#0232; Art 
 ====================
 
-![nonnafe.art](https://raw.githubusercontent.com/rozsasarpi/photorama/gh-pages/nonnafe_small_thumb.gif)
+A repository and website dedicated to the artwork of Fernanda Raspi. :art:
 
 ----------
 
-[Live website](https://nonnafe.art)
+Made in Florence with love. :pizza: + :heart:
+
+![nonnafe.art](https://raw.githubusercontent.com/rozsasarpi/photorama/gh-pages/nonnafe_small_thumb.gif)
+
+> gif by [Laura Palumbo](https://dribbble.com/shots/2767492#shot-description)
+
+----------
+
+__[Live website](https://nonnafe.art)__
 
 ----------
 
