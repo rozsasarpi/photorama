@@ -1,13 +1,15 @@
 Nonna F&#0232; Art 
 ====================
 
-A repository and website dedicated to the artwork of Fernanda Raspi.
+A repository and website dedicated to the artwork of Fernanda Raspi. :art:
 
 ----------
 
+Made in Florence with love. :pizza: + :heart:
+
 ![nonnafe.art](https://raw.githubusercontent.com/rozsasarpi/photorama/gh-pages/nonnafe_small_thumb.gif)
 
-> by [Laura Palumbo](https://dribbble.com/shots/2767492#shot-description)
+> gif by [Laura Palumbo](https://dribbble.com/shots/2767492#shot-description)
 
 ----------
 
