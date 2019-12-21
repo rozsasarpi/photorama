@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: Nonna F&#0232;
 email: "nonnafe.art@gmail.com"
 description: "Photo Journal"
 #url: "https://rozsasarpi.github.io"
@@ -8,7 +8,7 @@ baseurl: ""
 facebook_username: "Fernanda Raspi"
 twitter_username: ""
 instagram_username: "nonnafe.art"
-github_username:  ""
+github_username:  "rozsasarpi/photorama" # repository instead of username
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -44,8 +44,8 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
+destination: ./_site
+port: 4000
 
 
 # Build settings
