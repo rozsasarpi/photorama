@@ -1,6 +1,6 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: "nonnafe.art@gmail.com"
 description: "Photo Journal"
 #url: "https://rozsasarpi.github.io"
 url: "https://nonnafe.art"
@@ -18,7 +18,7 @@ share: true
 owner:
   name:   photorama
   avatar: avatar.png
-  favicon: favicon.ico
+  painting: painting.ico
   info: photography website template
 
 # Settings for comments helper
