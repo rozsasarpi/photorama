@@ -1,106 +1,32 @@
-p h o t o r a m a 
+Nonna Fe Art 
 ====================
 
-![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
+![nonnafe.art](https://raw.githubusercontent.com/rozsasarpi/photorama/gh-pages/nonnafe_small_thumb.gif)
 
 ----------
 
----> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
+[Live website](https://nonnafe.art)
 
 ----------
 
-A theme for **jekyll**. 
 
-Created for gh-pages (project page).
-
-This template was crafted having in mind the photobloggers and the artists.
-
-It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll "Clean Blog") as its basis.
-
-----------
-## Change Log
-
-### Version 2.2 (4/23/2018)
-
-<a href="https://github.com/sunbliss/photorama/wiki/How-to-get-SSL-on-Jekyll%3F"> How to get SSL Certificate (Https) For Jekyll</a>
-
-### Version 2.1 (3/22/2017)
-
-* Fixed script loading. 
-* Fixed padding bottom for the navbar toggle menu.
-
-
-### Version 2.0 (2/4/2017)
-
-* HTTPS is now enforced. 
-
-~~**Custom Domains are not supported.**~~
-
-~~For the time being, the only way to apply a custom domain name is by removing HTTPS as of the previous version. 
-Hoping Github developers will give its users the ability to add a custom domain served under security.~~
-
-### Version 1.2 (1/31/2017)
-
-* Fixed footer code so that the twitter icon links to the twitter_username instead of instagram_username.
-
-### Version 1.1 (7/15/2016)
-
-* Improved galleries and search section.
-* Better rendering of the header text.
-
-### Version 1.0 (6/19/2016)
-* Initial Template
-
-----------
-
- **IMPORTANT!!!**
-================
-
-### Before you begin: Change the URL and the BASEURL as well as the internal nav links in the _config.yml
-
-The **URL** should say `https://yourusername.github.io`
-
-The **BASEURL** should say `/repositoryname`
-
-**Internal nav** should say
-
-  nav:
-
-  - GALLERY: `"https://yourusername.github.io/repositoryname/gallery/"`
-  - JOURNAL: `"https://yourusername.github.io/repositoryname/journal/"`
-  - ABOUT: `"https://yourusername.github.io/repositoryname/about/`"
-
-If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
-
-----------
-
-~~**NOT FOR HTTPS served repos!!!**~~
-==================================
-
-~~* Applies for v1.2!~~
-
-If you want to use your **own domain** go to the root of your project's repository, create a CNAME file and add a line with your domain name, e.g. `www.yourdomain.com`.
-
-Go to your domain name registrar and add a CNAME record pointing your domain to GitHub Pages:
-- type: CNAME
-- host: www.yourdomainname.com
-- answer: yourusername.github.io/repositoryname
-- TTL: 300
-
-----------
-
-Usage
+Add content
 ============ 
 
-###Quick Start
+## Paintings
 
-1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
-2. Go to `https://github.com/yourusername/photorama/settings`
-3. Rename the repository to your new project, e.g. *myphotoblog*
-2. Create a new branch called `gh-pages` in your repository. 
-3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
-4. Delete **master** branch. 
-3. GitHub will build your site automatically and publish it at `https://yourusername.github.io/repositoryname/`.  
+### Add new galery
+
+### Add new painting
+
+## Writings
+
+### Add new writing
+
+
+
+Modify website features
+==========================
 
 ----------
 
@@ -137,31 +63,14 @@ When you add a tag or a category name in the front matter of a post, don't forge
 
 ----------
 
-All the credits and the helpers can be found at **ABOUT** page.
-
-
-----------
 
 Read <a href="https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
 
 
 ----------
 
-I hope you will find it useful for your projects, photographic or not.
 
+Acknowledgement
+==================
 
-----------
-
-
-##License
-
-The MIT License (MIT)
-
-Copyright (c) 2014 Filippo Oretti, Dario Andrei
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+This repository and website are based on [sunbliss/photorama](https://github.com/sunbliss/photorama).
