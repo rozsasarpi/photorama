@@ -35,7 +35,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://nonnafe.art/gallery/"  
-  - JOURNAL: "https://nonnafe.art/journal/"
+  # - JOURNAL: "https://nonnafe.art/journal/"
   - ABOUT: "https://nonnafe.art/about/"
 
 # All translation keys
