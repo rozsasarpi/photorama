@@ -6,12 +6,12 @@ description: "Photo Journal"
 url: "https://nonnafe.art"
 baseurl: ""
 facebook_username: "Fernanda Raspi"
-twitter_username: ""
+# twitter_username: ""
 instagram_username: "nonnafe.art"
 github_username:  "rozsasarpi/photorama" # repository instead of username
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
